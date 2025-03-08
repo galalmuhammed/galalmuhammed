@@ -18,8 +18,9 @@ const me = {
     askMeAbout: ["web designer", "web developer"],
     technologies: {
         frontEnd: {
+            html: [""]
             css: ["sass", "tailwind", "less"],\
-            js: ["Vue", "Nuxt"]
+            js: ["react", "next"]
         },
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
@@ -39,8 +40,10 @@ const me = {
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
