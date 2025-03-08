@@ -12,10 +12,10 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const me = {
     pronouns: "He" | "Him",
     code: ["html", "css", "javascript", "typerscript", "cpp"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web designer", "web developer"],
     technologies: {
         frontEnd: {
             css: ["sass", "tailwind", "less"],\
