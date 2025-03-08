@@ -18,7 +18,6 @@ const me = {
     askMeAbout: ["web designer", "web developer"],
     technologies: {
         frontEnd: {
-            html: [""]
             css: ["sass", "tailwind", "less"],\
             js: ["react", "next"]
         },
