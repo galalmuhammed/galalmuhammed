@@ -13,15 +13,23 @@ npx anmol
 
 ```javascript
 const me = {
+    name: "Your Name", // Replace with your actual name
     pronouns: "He/Him",
+    role: "Front-End Developer",
     code: ["HTML", "CSS", "JavaScript", "TypeScript", "C++"],
-    askMeAbout: ["Web Design", "Web Development"],
     technologies: {
         frontEnd: {
-            css: ["Sass", "Tailwind", "Less"],
-            js: ["React", "Next.js"]
+            languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+            frameworks: ["React", "Next.js"],
+            styling: ["Sass", "Tailwind", "Less"],
+            uiDesign: ["Figma", "Adobe XD"] // If you use UI design tools
         }
     },
+    askMeAbout: ["Web Development", "UI Design", "Front-End Architecture"],
+    contact: {
+        portfolio: "https://your-portfolio.com",
+        linkedin: "https://www.linkedin.com/in/galal-muhammed-413584245/"
+    }
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```
