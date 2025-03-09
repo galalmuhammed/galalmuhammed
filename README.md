@@ -13,10 +13,10 @@ npx anmol
 
 ```javascript
 const me = {
-    name: "Your Name", // Replace with your actual name
+    name: "Galal Muhammed",
     pronouns: "He/Him",
     role: "Front-End Developer",
-    code: ["HTML", "CSS", "JavaScript", "TypeScript", "C++"],
+    code: [ "C++", "HTML", "CSS", "JavaScript", "TypeScript"],
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
