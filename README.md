@@ -13,16 +13,16 @@ npx anmol
 
 ```javascript
 const me = {
-    pronouns: "He" | "Him",
-    code: ["html", "css", "javascript", "typerscript", "cpp"],
-    askMeAbout: ["web designer", "web developer"],
+    pronouns: "He/Him",
+    code: ["HTML", "CSS", "JavaScript", "TypeScript", "C++"],
+    askMeAbout: ["Web Design", "Web Development"],
     technologies: {
         frontEnd: {
-            css: ["sass", "tailwind", "less"],\
-            js: ["react", "next"]
-        },
+            css: ["Sass", "Tailwind", "Less"],
+            js: ["React", "Next.js"]
+        }
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```
 
