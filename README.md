@@ -22,7 +22,7 @@ const me = {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
             frameworks: ["React", "Next.js"],
             styling: ["Sass", "Tailwind", "Less"],
-            uiDesign: ["Figma", "Adobe XD"] // If you use UI design tools
+            uiDesign: ["Figma", "Adobe XD", "Adobe Photoshop", "Illustrator"]
         }
     },
     askMeAbout: ["Web Development", "UI Design", "Front-End Architecture"],
