@@ -26,7 +26,7 @@ const me = {
             versionControl: ["Git", "GitHub"]
         }
     },
-    askMeAbout: ["Web Development", "UI Design", "Front-End Architecture", "State Management"],
+    askMeAbout: ["UI Design", "Front-End Architecture", "State Management"],
     contact: {
         portfolio: "https://your-portfolio.com",
         github: "https://github.com/galalmuhammed)",
