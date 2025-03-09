@@ -29,8 +29,8 @@ const me = {
     askMeAbout: ["Web Development", "UI Design", "Front-End Architecture", "State Management"],
     contact: {
         portfolio: "https://your-portfolio.com",
-        github: "https://github.com/galalmuhammed" 
-        linkedin: "https://www.linkedin.com/in/galal-muhammed-413584245/",
+        github: "https://github.com/galalmuhammed)",
+        linkedin: "https://www.linkedin.com/in/galal-muhammed-413584245/"
     },
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
