@@ -16,22 +16,25 @@ const me = {
     name: "Galal Muhammed",
     pronouns: "He/Him",
     role: "Front-End Developer",
-    code: [ "C++", "HTML", "CSS", "JavaScript", "TypeScript"],
+    code: ["C++", "HTML", "CSS", "JavaScript", "TypeScript"],
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-            frameworks: ["React", "Next.js"],
+            frameworks: ["React", "Next.js", "Redux Toolkit"],
             styling: ["Sass", "Tailwind", "Less"],
-            uiDesign: ["Figma", "Adobe XD", "Photoshop", "Illustrator"]
+            uiDesign: ["Figma", "Adobe XD", "Photoshop", "Illustrator"],
+            versionControl: ["Git", "GitHub"]
         }
     },
-    askMeAbout: ["Web Development", "UI Design", "Front-End Architecture"],
+    askMeAbout: ["Web Development", "UI Design", "Front-End Architecture", "State Management"],
     contact: {
         portfolio: "https://your-portfolio.com",
-        linkedin: "https://www.linkedin.com/in/galal-muhammed-413584245/"
-    }
+        github: "https://github.com/galalmuhammed" 
+        linkedin: "https://www.linkedin.com/in/galal-muhammed-413584245/",
+    },
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
