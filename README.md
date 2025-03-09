@@ -16,7 +16,7 @@ const me = {
     name: "Galal Muhammed",
     pronouns: "He/Him",
     role: "Front-End Developer",
-    code: ["C++", "HTML", "CSS", "JavaScript", "TypeScript"],
+    code: ["C++", "Python", "HTML", "CSS", "JavaScript", "TypeScript"],
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
@@ -54,7 +54,6 @@ const me = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
