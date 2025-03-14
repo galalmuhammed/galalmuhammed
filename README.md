@@ -3,12 +3,6 @@
 <p><em>🔹 Front-End Developer | Full-Stack In Progress</em>
 </em></p>
 
-👇 Hit in your console to connect with me.
-
-```bash
-npx anmol
-```
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
