@@ -34,11 +34,6 @@ const me = {
     },
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
-
-```
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
 ---
 ##### Languages I use
 
