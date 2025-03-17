@@ -38,7 +38,6 @@ const aboutMe = {
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 
 ##### Some of the technologies I have worked with
 
