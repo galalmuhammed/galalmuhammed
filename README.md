@@ -1,6 +1,6 @@
 <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlhNzduYnRoaW9wcHFhb241czR4YzB2am1hdjYyMWI5Z2F5bmE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5KgB55F5smYFb6FvV/giphy.gif" width="35"> Hi, I'm Galal Muhammed! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlhNzduYnRoaW9wcHFhb241czR4YzB2am1hdjYyMWI5Z2F5bmE2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5KgB55F5smYFb6FvV/giphy.gif" width="35"></h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 <p><em><img width="25" src="https://media.giphy.com/media/lJjtBMyRnTQuqQ2bAs/giphy.gif?cid=ecf05e47xijfiy0xv66865sixi5x2lcef0ssc88v956hpj9y&ep=v1_stickers_related&rid=giphy.gif&ct=ts"> Front-End Developer | Full-Stack In Progress <img width="25" src="https://media.giphy.com/media/Mcuj4NiBNWf5r8oasj/giphy.gif?cid=ecf05e47xijfiy0xv66865sixi5x2lcef0ssc88v956hpj9y&ep=v1_stickers_related&rid=giphy.gif&ct=ts"></em></em></p>
 
