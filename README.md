@@ -2,8 +2,8 @@
 <p><em><img width="25" src="https://media.giphy.com/media/lJjtBMyRnTQuqQ2bAs/giphy.gif?cid=ecf05e47xijfiy0xv66865sixi5x2lcef0ssc88v956hpj9y&ep=v1_stickers_related&rid=giphy.gif&ct=ts"> Front-End Developer | Full-Stack In Progress <img width="25" src="https://media.giphy.com/media/Mcuj4NiBNWf5r8oasj/giphy.gif?cid=ecf05e47xijfiy0xv66865sixi5x2lcef0ssc88v956hpj9y&ep=v1_stickers_related&rid=giphy.gif&ct=ts"></em></em></p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <br>
-
-
+<br>
+<br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
